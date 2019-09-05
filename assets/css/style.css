@@ -1,0 +1,18 @@
+.bg-pink{
+  background-color: #660066;
+  
+}
+
+.icons-section{
+background-color: #FFFFFF;
+}
+
+.fondo-imagen{
+  background-image:url("../img/bg_hero.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size:cover;
+   padding-top: 30rem;
+
+
+}
